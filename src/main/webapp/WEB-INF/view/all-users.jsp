@@ -19,9 +19,10 @@
             <td>${user.surname}</td>
             <td>${user.email}</td>
         </tr>
-
         </c:forEach>
     </table>
+    <br><br>
+    <input type="button" onclick="history.back();" value="Back">
 
 
 </center>

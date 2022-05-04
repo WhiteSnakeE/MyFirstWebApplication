@@ -10,6 +10,9 @@ public interface UserService {
 
     public List<User> giveAllUsers();
 
+    public User getUser(int id);
+
+
 
 
 }
