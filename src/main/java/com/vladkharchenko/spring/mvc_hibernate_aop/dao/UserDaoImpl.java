@@ -31,4 +31,6 @@ public class UserDaoImpl implements UserDao {
         User user = session.get(User.class,id);
         return user;
     }
+
+
 }

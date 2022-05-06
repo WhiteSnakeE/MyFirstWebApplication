@@ -10,4 +10,5 @@ public interface UserDao {
     public List<User> giveAllUsers();
     public User getUser(int id);
 
+
 }

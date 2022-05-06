@@ -18,8 +18,10 @@
 
     <input type="button" value="ChangeDetails"
            onclick="window.location.href = '${ChangeDetails}'"/>
-    <input type="button" value="Show all users"
-           onclick="window.location.href = 'allUsers'"/>
+<%--    <input type="button" value="Show all users"--%>
+<%--           onclick="window.location.href = 'allUsers'"/>--%>
+    <input type="button" value="Start Test"
+           onclick="window.location.href = 'startTest'"/>
 
 
 </center>

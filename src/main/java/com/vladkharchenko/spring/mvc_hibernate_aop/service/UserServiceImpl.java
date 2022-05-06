@@ -30,4 +30,7 @@ public class UserServiceImpl implements UserService {
     public User getUser(int id) {
         return userDao.getUser(id);
     }
+
+
+
 }
